@@ -1,0 +1,21 @@
+# Project exclude paths
+/collection/List.js
+/collection/Set.js
+/datatype/接口/接口继承.js
+/datatype/array.js
+/datatype/bool.js
+/datatype/Class.js
+/datatype/number.js
+/datatype/string.js
+/datatype/type.js
+/function/回调函数/async.js
+/function/回调函数/Promise.js
+/function/回调函数/PromiseAll.js
+/function/回调函数/传统实现.js
+/function/泛型参数.js
+/命名空间/LettersOnlyValidator.js
+/模块/a.js
+/模块/b.js
+/SymbolTest.js
+/SymbolTest.js.map
+/多文件命名空间.js

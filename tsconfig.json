@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    /*TS编译后的JavaScript版本*/
+    "target": "ES6",
+    "lib": [
+      "dom",
+      "es2015"
+    ],
+    /*是否开启严格模式*/
+    "strict": false,
+    "esModuleInterop": false
+  }
+}
